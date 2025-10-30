@@ -1,2 +1,6 @@
 this is file 11
+<<<<<<< HEAD
 new creation file
+=======
+new file creatioon for new branch
+>>>>>>> d5efb67 (series 3)
